@@ -1,7 +1,7 @@
-name: dio_firebase_performance
-description: A new Flutter package project.
+name: firebase_performance_dio
+description: Dio Firebase performance monitoring.
 version: 0.4.0
-homepage: https://github.com/eyeem/dio_firebase_performance
+homepage: https://github.com/darkxanter/firebase_performance_dio
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
