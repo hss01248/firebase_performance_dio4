@@ -1,3 +1,11 @@
+# [0.4.1]
+
+* Update to firebase_performance 0.9.0+2
+
+# [0.4.0]
+
+* Update to firebase_performance 0.8.0
+
 # [0.3.1-dev.3]
 
 * Update Dependencies (thx abahnj)
