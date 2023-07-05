@@ -1,7 +1,7 @@
-name: firebase_performance_dio
+name: firebase_performance_dio4
 description: Dio Firebase performance monitoring.
-version: 0.5.0
-homepage: https://github.com/darkxanter/firebase_performance_dio
+version: 0.6.0
+homepage: https://github.com/hss01248/firebase_performance_dio4
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^5.0.0
+  dio: ^4.0.0
   firebase_performance: ">=0.8.0 <0.10.0"
 
 dev_dependencies:
